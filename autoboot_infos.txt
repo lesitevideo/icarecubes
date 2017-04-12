@@ -1,0 +1,4 @@
+#ajouter au demarrage /etc/init.d/cubeService
+
+sudo update-rc.d cubeService defaults
+sudo update-rc.d cubeService remove
